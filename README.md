@@ -1,5 +1,6 @@
-#From osss-collaboration-days (Niko)
-##Idea description
+From osss-collaboration-days (Niko)
+
+Idea description
 This is an idea we've discussed in passing with @chrishalcrow and @wulfdewolf.
 
 SpikeInterface is a great open-source tool for processing extracellular electrophysiology data, and is taught as part of that track on week 2.
@@ -7,7 +8,8 @@ pynapple is a great neural data analysis package, also taught as part of the ext
 movement is our Python package for processing motion tracking data, and is taught as part of the "Animals in Motion" track on week 1.
 I think there is an opportunity here to draft an example workflow/notebook that integrates all three.
 
-##In broad strokes:
+
+In broad strokes:
 
 Load processed ephys data (from a SpikeInterface analysis object?)
 Load motion timeseries (from a movement netCDF file)?
