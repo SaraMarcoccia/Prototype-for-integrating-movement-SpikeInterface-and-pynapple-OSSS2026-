@@ -1,0 +1,4 @@
+# Python 3.13
+movement==0.17
+pynapple
+jupyter
